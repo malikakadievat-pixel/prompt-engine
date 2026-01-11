@@ -1,0 +1,5 @@
+{
+  "name": "PromptForge AI",
+  "description": "An advanced Prompt Engineering tool that transforms vague ideas into professional-grade AI prompts using frameworks like CO-STAR and Chain-of-Thought. It critiques your input and generates optimized variations.",
+  "requestFramePermissions": []
+}
